@@ -7,7 +7,7 @@ Canon.com/ijsetup - Canon Wireless Printer Setup
     :align: center
     :height: 100px
     :alt: Canon.com/ijsetup
-	  :target: http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com
+    :target: http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com
 
 Setting up canon wireless printer setup can be sometimes cumbersome and through this article our aim to help setup your canon printer with ease. Before attempting to connect your canon printer to your wireless network, please check that you meet the following two settings before you advance for canon printer setup:
 
